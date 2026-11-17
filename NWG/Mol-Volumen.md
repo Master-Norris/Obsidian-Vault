@@ -1,0 +1,1 @@
+Das Mol-Volumen gibt an wie viel Volumen ein [[Mol]] eines Stoffes einnimmt.

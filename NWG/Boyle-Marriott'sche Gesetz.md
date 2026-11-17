@@ -1,0 +1,1 @@
+Das Boyle-Mariotte-Gesetz besagt, dass der Druck $p$ eines idealen Gases bei konstanter Temperatur $T$ und unveränderter Teilchenzahl [isotherme Zustandsänderung](Zustandsänderungen%20von%20Gasen) umgekehrt proportional zum Volumen $V$ ist.

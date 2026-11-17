@@ -1,0 +1,1 @@
+Das Gesetz von Gay-Lussac besagt, dass das Volumen $V$ eines [idealen Gases](Ideales%20Gas(gesetz)) direkt proportional zu seiner [[Absolute Temperatur]] $T$ ist, solange der Druck $p$ und die Stoffmenge $n$ konstant bleiben

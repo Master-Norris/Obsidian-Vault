@@ -1,0 +1,1 @@
+Ein Mol bezeichnet eine Avogadro-Konstante $N_A = 6,02214076 \cdot 10^{23}$ Teilchen.
